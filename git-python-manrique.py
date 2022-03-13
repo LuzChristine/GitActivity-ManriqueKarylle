@@ -1,6 +1,13 @@
 print ("Karylle M. Manrique");
 print ("Poras Boac Marinduque");
 print ("June 28, 2001");
+print (" ");
 print ("Marinduque State College");
 print ("BSIT");
 print ("2D");
+print (" ");
+print ("singing");
+print ("volleyball");
+print ("playing instruments");
+print ("watching movies and series");
+print ("eating");
